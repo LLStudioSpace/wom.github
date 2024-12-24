@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 380210364
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gui
+      Dependencies:
+        Dependency_0: audio
+    Info_1:
+      Name: balance
+      Dependencies: {}
+    Info_2:
+      Name: units
+      Dependencies: {}
+    Info_3:
+      Name: audio
+      Dependencies: {}

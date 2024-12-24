@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2643856686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a071082418dfdf0df5c25f1d0b31976b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df5b78a6006753585d6d97b7b3bb5897
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a071082418dfdf0df5c25f1d0b31976b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ec31317bd6654f46b5ec9098d0dd4ce, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/GameAudioMixer.mixer
+- Assets/Audio/AudioManager.prefab
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2092390064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ed33762b58a2858c940948f46f04684
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8ed33762b58a2858c940948f46f04684
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Balance/BinaryFiles/MainLevelsBalance.txt
+- Assets/Balance/BinaryFiles/RewardsBalance.txt
+Dependencies: []

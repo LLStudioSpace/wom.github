@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3708868310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b187fd8b1e96eb019cd7f3777910315
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45cac434d98f1fef8aa59936fe3733f7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b187fd8b1e96eb019cd7f3777910315
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/TestCubeMat.mat
+- Assets/Materials/TestFaceMat.mat
+- Assets/Materials/EmojiLightingSettings.lighting
+- Assets/Materials/SkyBox.mat
+Dependencies: []

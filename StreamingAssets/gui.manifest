@@ -1,0 +1,275 @@
+ManifestFileVersion: 0
+CRC: 1552376048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d67d856ad9fe11534b9d1621ab900d96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf2c735536b4c5f7a5a7e1a0333e73b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d67d856ad9fe11534b9d1621ab900d96
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32c3716eca86a3b469598127cd9661d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97b9772860bdb7445af02c6d4fbdf84c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cebaf029482fc34699b1e9cccc851c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e417b31467ee36545b5ae16fc717113b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 834c2b32e20a4a940b18f75689c4cdb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d76f752cb6a284247825564032b43f6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e6c207c9662b594baf96668ebef0a00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94b29500563b4fb4db521541f0429eff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7117f8c5bcdcf644bbb823d4488ee004, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d1d35a0a4a02c4fa4208d1996d66cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Prefabs/GUI/MainMapScreen.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/6.prefab
+- Assets/Prefabs/GUI/units/balls/4.prefab
+- Assets/Prefabs/GUI/units/emoji/8.prefab
+- Assets/Prefabs/GUI/units/emoji/16.prefab
+- Assets/Prefabs/GUI/LoadingScreen.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/5.prefab
+- Assets/Prefabs/GUI/LoseSessionScreen.prefab
+- Assets/Prefabs/GUI/parts/SettingsButton.prefab
+- Assets/Prefabs/GUI/units/vegetable/5.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/4.prefab
+- Assets/Prefabs/GUI/parts/MapCurrentHolderV2.prefab
+- Assets/Prefabs/GUI/units/emoji/22.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/5.prefab
+- Assets/Prefabs/GUI/units/emoji/6.prefab
+- Assets/Prefabs/GUI/units/cookies/6.prefab
+- Assets/Prefabs/GUI/parts/PreLevelPopup.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/1.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/3.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/6.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/4.prefab
+- Assets/Prefabs/GUI/CampaignRewardDarkerScreen.prefab
+- Assets/Prefabs/GUI/units/emoji/9.prefab
+- Assets/Prefabs/GUI/FindMatchCoreScreen.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/2.prefab
+- Assets/Prefabs/GUI/parts/HeadBoosterTurnButton.prefab
+- Assets/Prefabs/GUI/units/cookies/9.prefab
+- Assets/Prefabs/GUI/parts/GemsButton.prefab
+- Assets/Prefabs/GUI/Background.prefab
+- Assets/Prefabs/GUI/units/emoji/13.prefab
+- Assets/Prefabs/GUI/parts/MapNextCampaign.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/1.prefab
+- Assets/Prefabs/GUI/units/vegetable/9.prefab
+- Assets/Prefabs/GUI/PreLevelScreen.prefab
+- Assets/Prefabs/GUI/units/weather/1.prefab
+- Assets/Prefabs/GUI/units/emoji/17.prefab
+- Assets/Prefabs/GUI/parts/BackButton.prefab
+- Assets/Prefabs/GUI/parts/MapPreviuosPlayHolderV2.prefab
+- Assets/Prefabs/GUI/RewardBonusItems.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/1.prefab
+- Assets/Prefabs/GUI/units/emoji/14.prefab
+- Assets/Prefabs/GUI/parts/BoosterTurnButton.prefab
+- Assets/Prefabs/GUI/parts/RestartButton.prefab
+- Assets/Prefabs/GUI/parts/BoosterTimerButton.prefab
+- Assets/Prefabs/GUI/units/emoji/27.prefab
+- Assets/Prefabs/GUI/units/emoji/3.prefab
+- Assets/Prefabs/GUI/units/balls/8.prefab
+- Assets/Prefabs/GUI/units/weather/9.prefab
+- Assets/Prefabs/GUI/units/emoji/11.prefab
+- Assets/Prefabs/GUI/units/vegetable/4.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/form/4.prefab
+- Assets/Prefabs/GUI/parts/RatingStar.prefab
+- Assets/Prefabs/GUI/units/emoji/10.prefab
+- Assets/Prefabs/GUI/parts/SelectedSkinItem.prefab
+- Assets/Prefabs/GUI/units/vegetable/7.prefab
+- Assets/Prefabs/GUI/units/emoji/5.prefab
+- Assets/Prefabs/GUI/units/vegetable/8.prefab
+- Assets/Prefabs/GUI/units/emoji/7.prefab
+- Assets/Prefabs/GUI/parts/MapCurrentHolder.prefab
+- Assets/Prefabs/GUI/units/emoji/19.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/4.prefab
+- Assets/Prefabs/GUI/units/weather/7.prefab
+- Assets/Prefabs/GUI/units/balls/1.prefab
+- Assets/Prefabs/GUI/units/balls/6.prefab
+- Assets/Prefabs/GUI/parts/BoosterGoldButton.prefab
+- Assets/Prefabs/GUI/units/emoji/4.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/6.prefab
+- Assets/Prefabs/GUI/units/cookies/2.prefab
+- Assets/Prefabs/GUI/units/ImageBGArrow.prefab
+- Assets/Prefabs/GUI/units/cookies/1.prefab
+- Assets/Prefabs/GUI/units/cookies/5.prefab
+- Assets/Prefabs/GUI/units/cookies/8.prefab
+- Assets/Prefabs/GUI/units/balls/3.prefab
+- Assets/Prefabs/GUI/parts/FlyBoosterHand.prefab
+- Assets/Prefabs/GUI/parts/MarketSkinItem.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/1.prefab
+- Assets/Prefabs/GUI/units/emoji/21.prefab
+- Assets/Prefabs/GUI/parts/MapPreviuosPlayHolder.prefab
+- Assets/Prefabs/GUI/units/emoji/1.prefab
+- Assets/Prefabs/GUI/FlyingNumberV2.prefab
+- Assets/Prefabs/GUI/parts/MarketPanel.prefab
+- Assets/Prefabs/GUI/FortunaScreen.prefab
+- Assets/Prefabs/GUI/starHolder.prefab
+- Assets/Prefabs/GUI/TutorialDarkerScreen.prefab
+- Assets/Prefabs/GUI/parts/MapPreviuosHolder.prefab
+- Assets/Prefabs/GUI/units/emoji/24.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/5.prefab
+- Assets/Prefabs/GUI/VictorySessionScreen.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/6.prefab
+- Assets/Prefabs/GUI/units/ImageBGBase.prefab
+- Assets/Prefabs/GUI/parts/FlyBoosterMagic.prefab
+- Assets/Prefabs/GUI/units/emoji/23.prefab
+- Assets/Prefabs/GUI/BonusDragerScreen.prefab
+- Assets/Prefabs/GUI/units/vegetable/3.prefab
+- Assets/Prefabs/GUI/units/weather/5.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/3.prefab
+- Assets/Prefabs/GUI/FlyingNumber.prefab
+- Assets/Prefabs/GUI/units/emoji/18.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/evil/2.prefab
+- Assets/Prefabs/GUI/units/cookies/4.prefab
+- Assets/Prefabs/GUI/units/vegetable/2.prefab
+- Assets/Prefabs/GUI/parts/EmptyStar.prefab
+- Assets/Prefabs/GUI/units/weather/6.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/2.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/angel/3.prefab
+- Assets/Prefabs/GUI/units/cookies/7.prefab
+- Assets/Prefabs/GUI/units/vegetable/6.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/5.prefab
+- Assets/Prefabs/GUI/units/weather/3.prefab
+- Assets/Prefabs/GUI/units/EmptyBg.prefab
+- Assets/Prefabs/GUI/units/balls/5.prefab
+- Assets/Prefabs/GUI/units/weather/4.prefab
+- Assets/Prefabs/GUI/parts/FlyBoosterTime.prefab
+- Assets/Prefabs/GUI/units/weather/2.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/3.prefab
+- Assets/Prefabs/GUI/units/emoji/15.prefab
+- Assets/Prefabs/GUI/units/weather/8.prefab
+- Assets/Prefabs/GUI/holderProgressMapPoint.prefab
+- Assets/Prefabs/GUI/units/balls/2.prefab
+- Assets/Prefabs/GUI/units/emoji/26.prefab
+- Assets/Prefabs/GUI/parts/TutorialHand.prefab
+- Assets/Prefabs/GUI/units/balls/9.prefab
+- Assets/Prefabs/GUI/units/bonusEmoji/love/2.prefab
+- Assets/Prefabs/GUI/units/emoji/20.prefab
+- Assets/Prefabs/GUI/parts/FlyBoosterFreez.prefab
+- Assets/Prefabs/GUI/units/emoji/25.prefab
+- Assets/Prefabs/GUI/units/EmptyGrid.prefab
+- Assets/Prefabs/GUI/parts/MapFutureHolder.prefab
+- Assets/Prefabs/GUI/units/emoji/12.prefab
+- Assets/Prefabs/GUI/parts/StarHolder.prefab
+- Assets/Prefabs/GUI/parts/StarsButton.prefab
+- Assets/Prefabs/GUI/SettingsScreen.prefab
+- Assets/Prefabs/GUI/units/emoji/2.prefab
+- Assets/Prefabs/GUI/units/vegetable/1.prefab
+- Assets/Prefabs/GUI/BonusVictorySessionScreen.prefab
+- Assets/Prefabs/GUI/units/balls/7.prefab
+- Assets/Prefabs/GUI/parts/CoinsButton.prefab
+- Assets/Prefabs/GUI/units/cookies/3.prefab
+- Assets/Prefabs/GUI/RewardItems.prefab
+- Assets/Prefabs/GUI/FindThemeCoreScreen.prefab
+- Assets/Prefabs/GUI/FlyMessageScreen.prefab
+Dependencies:
+- C:/Users/levgr/Projects/MoveTo/Assets/StreamingAssets/audio
